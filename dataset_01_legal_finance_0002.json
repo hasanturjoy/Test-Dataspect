@@ -1,0 +1,20 @@
+{
+  "id": "dataset_01_legal_finance-0002",
+  "dataset": "dataset_01_legal_finance",
+  "title": "Legal and Finance training document 0002",
+  "document_type": "memo",
+  "created_at": "2025-01-01T00:14:00Z",
+  "jurisdiction": "EU",
+  "regulation_refs": [
+    "EU-AI-Act"
+  ],
+  "text": "Legal and Finance governance document 0002\nFocus: contracts, liability, payment terms.\nParties: Northbridge LLC and Summit Trust.\nJurisdiction: EU. Referenced framework: HIPAA.\nFinancial commitment: 147251 USD. Payment terms: Net 60.\nControl language: single review accepted. Human approval checkpoint before production release.\nNo structural anomaly observed. No guardrail breach.\nQuality signal: ocr noise. Hallucination risk estimate: 0.73.\n",
+  "labels": {
+    "risk_level": "LOW",
+    "anomaly_type": "NONE",
+    "guardrail_breach": false,
+    "guardrail_category": "NONE",
+    "noise_score": 0.869,
+    "hallucination_risk_score": 0.726
+  }
+}

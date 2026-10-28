@@ -1,0 +1,20 @@
+{
+  "id": "dataset_01_legal_finance-0003",
+  "dataset": "dataset_01_legal_finance",
+  "title": "Legal and Finance training document 0003",
+  "document_type": "policy",
+  "created_at": "2025-01-01T00:21:00Z",
+  "jurisdiction": "AU",
+  "regulation_refs": [
+    "EU-AI-Act"
+  ],
+  "text": "Legal and Finance governance document 0003\nFocus: contracts, liability, payment terms.\nParties: Summit Trust and Beacon Partners.\nJurisdiction: EU. Referenced framework: PCI-DSS.\nFinancial commitment: 788797 USD. Payment terms: Net 15.\nControl language: single review accepted. Human approval checkpoint before production release.\nNo structural anomaly observed. No guardrail breach.\nQuality signal: clean extraction. Hallucination risk estimate: 0.45.\n",
+  "labels": {
+    "risk_level": "LOW",
+    "anomaly_type": "NONE",
+    "guardrail_breach": false,
+    "guardrail_category": "NONE",
+    "noise_score": 0.043,
+    "hallucination_risk_score": 0.447
+  }
+}

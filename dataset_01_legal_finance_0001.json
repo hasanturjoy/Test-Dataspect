@@ -1,0 +1,22 @@
+{
+  "id": "dataset_01_legal_finance-0001",
+  "dataset": "dataset_01_legal_finance",
+  "title": "Legal and Finance training document 0001",
+  "document_type": "policy",
+  "created_at": "2025-01-01T00:07:00Z",
+  "jurisdiction": "US",
+  "regulation_refs": [
+    "HIPAA",
+    "ISO27001",
+    "PCI-DSS"
+  ],
+  "text": "Legal and Finance governance document 0001\nFocus: contracts, liability, payment terms.\nParties: Acme Group and Summit Trust.\nJurisdiction: UK. Referenced framework: GDPR.\nFinancial commitment: 638508 USD. Payment terms: Net 30.\nControl language: single review accepted. Human approval checkpoint before production release.\nNo structural anomaly observed. No guardrail breach.\nQuality signal: mixed language fragments. Hallucination risk estimate: 0.70.\n",
+  "labels": {
+    "risk_level": "MEDIUM",
+    "anomaly_type": "NONE",
+    "guardrail_breach": false,
+    "guardrail_category": "NONE",
+    "noise_score": 0.223,
+    "hallucination_risk_score": 0.705
+  }
+}
